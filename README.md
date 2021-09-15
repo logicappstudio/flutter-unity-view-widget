@@ -1,3 +1,14 @@
+https://www.youtube.com/watch?v=exNPmv_7--Q
+
+
+Update: 
+Change the Line in the Building Script for the new Flutter Export Navigation Item: 
+var options = BuildOptions.AllowDebugging.AcceptExternalModificationsToPlayer;
+to 
+var options = BuildOptions.AllowDebugging; 
+and it should work.
+
+
 # flutter_unity_widget
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 
